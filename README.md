@@ -1,5 +1,3 @@
-# tvs-golden-age
-
 # **Basic Python: Project**
 
 In this project, you will work with data from the entertainment industry. You will study a dataset with records on movies and shows. The research will focus on the “Golden Age” of television, which began in 1999 with the release of The Sopranos and is still ongoing.
